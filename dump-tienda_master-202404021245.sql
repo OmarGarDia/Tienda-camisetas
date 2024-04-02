@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.19, for Win64 (x86_64)
 --
--- Host: localhost    Database: tienda_master
+-- Host: localhost    Database: tienda_camisetas
 -- ------------------------------------------------------
 -- Server version	5.5.5-10.4.24-MariaDB
 
@@ -162,7 +162,7 @@ LOCK TABLES `usuarios` WRITE;
 UNLOCK TABLES;
 
 --
--- Dumping routines for database 'tienda_master'
+-- Dumping routines for database 'tienda_camisetas'
 --
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
